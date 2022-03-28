@@ -1,2 +1,9 @@
 # helloworld
 My first repository
+```
+public class HelloWorld{
+  public static viod main(String[] args){
+    System.out.println("hello world!");
+    }
+}
+```
